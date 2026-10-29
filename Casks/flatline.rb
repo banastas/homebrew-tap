@@ -1,6 +1,6 @@
 cask "flatline" do
-  version "1.0.0"
-  sha256 "01093c983dce0f99041177b1ad745abcbd1719c0c9381d92272ee5308f19dab0"
+  version "1.0.1"
+  sha256 "669473df197aa92c4e816a40974b2643eb1db54c9104db526bfa00b36d1b9445"
 
   url "https://flatline.banast.as/releases/flatline-#{version}.dmg"
   name "flatline"
